@@ -1,0 +1,3 @@
+<template>
+  <dialog-test />
+</template>
